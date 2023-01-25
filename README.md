@@ -30,7 +30,7 @@
 
 
 ## Conclusions
-- Imabalance in size of the training dataset and test dataset can lead to overfitting and underfitting.
+- Imbalance in size of the training dataset and test dataset can lead to overfitting and underfitting.
 - Class Imbalance impacts the outcome of model significantly.
 - Hyper parameter tuning is required to increase the accuracy of the model.
 

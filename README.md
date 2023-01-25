@@ -49,6 +49,6 @@
 
 
 ## Contact
-Created by [@https://github.com/Srutha]
+Created by Srutha
 
  

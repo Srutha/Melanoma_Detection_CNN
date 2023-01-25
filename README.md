@@ -49,6 +49,6 @@
 
 
 ## Contact
-Created by [@srutha]
+Created by [@Srutha]
 
  
